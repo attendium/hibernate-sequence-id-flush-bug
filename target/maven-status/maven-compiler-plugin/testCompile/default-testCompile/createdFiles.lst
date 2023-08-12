@@ -1,0 +1,4 @@
+org/hibernate/bugs/JPAUnitTestCase.class
+org/hibernate/bugs/Ticket.class
+org/hibernate/bugs/Account.class
+org/hibernate/bugs/Person.class
